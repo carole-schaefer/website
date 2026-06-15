@@ -55,9 +55,12 @@ Current editorial direction:
 
 - Keep headings short, personal, and useful for recruiters who scan quickly.
 - Work headings from the value proposition: what Carole brings, what she makes easier for teams, and why her profile is relevant.
-- Prefer human, specific headlines that sound like a real professional wrote them, for example "Erst verstehen, dann zuspitzen", "Komplexe Angebote so erzählen, dass Teams damit arbeiten können", or "Wo Produktmarketing, Website und Strategie zusammenkommen".
+- Prefer precise, work-specific German headlines that follow Carole's LinkedIn wording: concrete, fachlich, warm, and close to her actual responsibilities in Product Marketing, Positionierung, B2B Tech, Cyber Security, Website-Optimierung, Content, Leadgenerierung, Messaging, Value Proposition and Sales Enablement.
+- Use headings that describe the work clearly, for example "Aus technischen Leistungen werden klare Nutzenargumente.", "Positionierung, Content und Leadgenerierung gehören für mich zusammen.", "Zuerst verstehen, was für Zielgruppen wirklich zählt.", "Strategisch in der Positionierung, konkret in der Umsetzung.", or "Wo ich Positionierung, Website und Kampagnen umgesetzt habe."
 - Avoid generic label-like headlines such as "Was ich einbringe", "Wie ich arbeite", "Wofür ich stehe", and "Erfahrung, die Orientierung schafft" unless the surrounding content makes them clearly distinctive.
+- Avoid slogan-like or overly polished portfolio claims such as "Ich mache B2B-Tech klar und relevant.", "Drei Stärken, die im Alltag zählen.", or "Früh gelernt, sauber zu strukturieren." They read too template-like for this site.
 - Avoid long explanatory headlines that repeat the paragraph below them.
+- For hero headings, prefer a concise positioning line over a clever claim, for example "Produktmarketing für B2B Tech und Cyber Security." Support it with the paragraph below instead of forcing every detail into the heading.
 - Avoid redundant page structures. If two pages cover strongly overlapping proof points, combine them into one clearer page.
 - Treat "Werdegang" as the primary place for professional stations, concrete work areas, education, and continuing education.
 - Do not split "Arbeitsfelder" and "Erfahrung" into separate pages unless there is enough distinct source material to justify both.
@@ -137,9 +140,10 @@ Use polished, human, direct copy. The tone should be professional and warm.
 
 Example direction:
 
-- "I help teams turn complex products into clear stories customers understand."
-- "I connect market insight, product strategy, and commercial storytelling."
-- "My work sits at the intersection of customer understanding, positioning, and go-to-market execution."
+- "Ich verbinde Produktmarketing, Positionierung und B2B-Kommunikation für erklärungsbedürftige IT- und Cyber-Security-Lösungen."
+- "Ich übersetze technische Leistungen in klare Positionierungen, relevante Botschaften und Marketingmaterialien, die Kunden verstehen und Vertriebsteams nutzen können."
+- "Mein Schwerpunkt liegt darauf, komplexe technische Leistungen in klare Botschaften, überzeugende Nutzenargumente und zielgruppengerechte Marketing-Assets zu übersetzen."
+- "Besonders stark bin ich an der Schnittstelle zwischen Strategie, Inhalt und Umsetzung: Zielgruppen verstehen, Positionierung schärfen, Botschaften entwickeln und daraus konkrete Kampagnen, Produktseiten, Whitepaper, Leitfäden oder vertriebsnahe Assets ableiten."
 
 Do not invent detailed facts. When information is missing, use tasteful placeholders or ask for source material.
 
