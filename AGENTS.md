@@ -139,3 +139,4 @@ Before completing significant website changes:
 - I am not a programmer and not familiar with web development and/or git.
 - If you have implemented a change that I requested, please always offer it to me to push them to git, so I can see the changes in action. Please make sure to perform local validation first before committing untested changes
 - If you present me with multiple options please make sure to explain them in not too technical language to enable me to actually participate in the design in a meaningful way.
+- The repository on github is public. Please stop me before we publish sensitive information (api keys etc) onto github!
