@@ -49,6 +49,19 @@ Good positioning themes:
 - Storytelling that connects product value to customer needs.
 - Structured thinking, ownership, and practical execution.
 
+## Wording and Information Architecture
+
+Current editorial direction:
+
+- Keep headings short, personal, and useful for recruiters who scan quickly.
+- Work headings from the value proposition: what Carole brings, what she makes easier for teams, and why her profile is relevant.
+- Prefer human, specific headlines that sound like a real professional wrote them, for example "Erst verstehen, dann zuspitzen", "Komplexe Angebote so erzählen, dass Teams damit arbeiten können", or "Wo Produktmarketing, Website und Strategie zusammenkommen".
+- Avoid generic label-like headlines such as "Was ich einbringe", "Wie ich arbeite", "Wofür ich stehe", and "Erfahrung, die Orientierung schafft" unless the surrounding content makes them clearly distinctive.
+- Avoid long explanatory headlines that repeat the paragraph below them.
+- Avoid redundant page structures. If two pages cover strongly overlapping proof points, combine them into one clearer page.
+- Treat "Werdegang" as the primary place for professional stations, concrete work areas, education, and continuing education.
+- Do not split "Arbeitsfelder" and "Erfahrung" into separate pages unless there is enough distinct source material to justify both.
+
 ## Design Direction
 
 The portfolio should have a modern, refined visual style suitable for a Product Marketing Manager. It should feel professional and contemporary, not flashy or overly decorative.
@@ -62,6 +75,12 @@ Design priorities:
 - Accessible contrast and readable font sizes.
 - Thoughtful use of spacing, visual rhythm, and sectioning.
 - A visible call to action for contact or profile links.
+
+Subpage spacing guidance:
+
+- Keep the start page generous enough to create a strong first impression.
+- Keep all other pages more compact vertically so they do not feel empty or unfinished.
+- Use whitespace to create hierarchy, not large gaps between small amounts of content.
 
 Avoid:
 
